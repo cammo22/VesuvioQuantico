@@ -1,8 +1,8 @@
 # VesuvioQuantico · Atlante DaProd
 
-[![Apri l’atlante](https://img.shields.io/badge/Atlante-Pages_in_attivazione-grey)](https://cammo22.github.io/VesuvioQuantico/)
+[![Apri l’atlante](https://img.shields.io/badge/Atlante-Pages_ATTIVO-166d70)](https://cammo22.github.io/VesuvioQuantico/)
 
-**GitHub Pages in attivazione: link non ancora verificato.** Repository pubblica su autorizzazione di Cammo. Il sito e le fonti creative incluse sono pubblici.
+**GitHub Pages ATTIVO: deploy riuscito e contenuto della pagina verificato via HTTP.** Repository pubblica su autorizzazione di Cammo. Il sito e le fonti creative incluse sono pubblici.
 
 Atlante italiano con 27 schede del cast robotico e 6 ambientazioni. Ogni scheda espone un prompt fotografico FLUX 3 in inglese, modificabile, copiabile e salvato automaticamente. FLUX 3 è solo un’etichetta di destinazione: nessuna API o parametro del modello viene presunto. I dettagli visivi sono proposte da approvare, non aggiunte al canone. I prompt H3 e Pika rimangono studi copiabili nei dettagli.
 
