@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.backup-*
+*.precedente-*.html
+*backup*.json
+DaProd-Atlante-test-*.json
+DaProd-Atlante-mobile.png
+DaProd-Atlante-desktop.png
+playwright-report/
+test-results/
+.env
+.env.*
+browser-data/
+user-data-dir/
